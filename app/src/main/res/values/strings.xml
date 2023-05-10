@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MA02_20200943</string>
+    <string name="weatherAPIAddress">http://apis.data.go.kr/1360000/VilageFcstInfoService_2.0/getVilageFcst</string>
+    <string name="wkey">wEMsv4NKYiHYja3%2F8Tedqg83HXtD8ouedrkMC0%2FY64YOlSyiCPuasmOvO9VXX%2B3zgHahvY4QdWNyYQEb9%2FC0Fw%3D%3D</string>
+    <string name="api_key">AIzaSyBVM2rDBnC4n5g759eLtqrGeWIncp-8LGo</string>
+</resources>
